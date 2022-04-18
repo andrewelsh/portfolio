@@ -1202,7 +1202,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("https://github.com/andrewelsh/portfolio/blob/master/images/airplane-1649632523846-5433.jpg?raw=true");
+			background-image: url("https://github.com/andrewelsh/portfolio/blob/39d904d7493296f3b5f61707aa0ba4f98f15ccc8/images/airplane-1649632523846-5433.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
