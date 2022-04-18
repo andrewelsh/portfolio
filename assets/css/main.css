@@ -120,7 +120,7 @@ input, select, textarea {
 	@media screen and (max-width: 1680px) {
 
 			#projects{
-				/* top: 50vh; */
+				top: 50vh;
 			}
 	
 
