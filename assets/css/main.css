@@ -68,13 +68,21 @@ input, select, textarea {
 		width: device-width;
 	}
 
+
+
+
+
 	@media screen and (max-width: 480px) {
 
-		
+		#project{
+			top:10vh;
+		}
 
 		html, body {
 			min-width: 320px;
+
 		}
+	
 
 	}
 
@@ -112,7 +120,7 @@ input, select, textarea {
 	@media screen and (max-width: 1680px) {
 
 			#projects{
-				top: 50vh;
+				/* top: 50vh; */
 			}
 	
 
@@ -136,7 +144,9 @@ input, select, textarea {
 
 		@media screen and (max-width: 360px) {
 			
-
+			#projects{
+				top:1vh;
+			}
 
 			html {
 				font-size: 10pt;
@@ -1732,7 +1742,7 @@ justify-content:flex-start;
 				padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 				position: relative;
 				width: 40rem;
-				top: 44vh;
+				top: 0vh;
 				max-width: 100%;
 				background-color: rgba(27, 31, 34, 0.85);
 				border-radius: 4px;
